@@ -1,0 +1,14 @@
+Party		Votes
+=====================
+ethniki_dimiourgia		4
+mera_25		4
+lefko		4
+pleysi_eleftherias		4
+symmaxia_anatropis		4
+kke		5
+niki		4
+ellhniki_lysi		4
+pasok		5
+syriza		5
+nea_dimokratia		6
+=====================
